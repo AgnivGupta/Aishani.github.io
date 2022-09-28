@@ -75,7 +75,7 @@ div#sea {
 
 .hello {
   color: white;
-  font-family: cursive;
+  font-family:sans-serif;
 }
 
 .giftbox {
@@ -463,4 +463,3 @@ div#sea {
     right: 230px;
   }
 }
-
